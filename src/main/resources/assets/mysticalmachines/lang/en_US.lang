@@ -1,0 +1,20 @@
+itemGroup.mysticalmachines=Mystical Machines
+item.soulGem.name=Soul Gem
+item.enderShard.name=Ender Shard
+
+mysticalmachines.ingot=Ingot
+mysticalmachines.dust=Dust
+mysticalmachines.ore=Ore
+mysticalmachines.contains=Currently contains
+mysticalmachines.bound=Bound to
+mysticalmachines.empty=Empty
+mysticalmachines.blank=Blank
+mysticalmachines.active=Active
+mysticalmachines.inactive=Inactive
+mysticalmachines.press=Press
+mysticalmachines.shift=Shift
+mysticalmachines.moreInfo=For more info
+mysticalmachines.health=Health
+mysticalmachines.runic=Runic
+mysticalmachines.ability=Ability
+mysticalmachines.power=Power
